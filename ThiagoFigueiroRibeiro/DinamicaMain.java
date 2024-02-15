@@ -1,3 +1,5 @@
+package ThiagoFigueiroRibeiro;
+
 public class DinamicaMain {
     public static void main(String[] args) {
         User userThiago = new User("Thiago Figueiró", "ThiagoFigueiroRibeiro");

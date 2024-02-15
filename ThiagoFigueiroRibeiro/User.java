@@ -1,3 +1,5 @@
+package ThiagoFigueiroRibeiro;
+
 class User{
     public String getNome() {
         return nome;
